@@ -35,7 +35,7 @@ Come Soon../正在路上.., tag=R_E_Script, update-interval=172800, opt-parser=t
 event-interaction https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/TaskLocal/NeteaseMusicUnlockCheck.js, tag=网易音乐查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png, enabled=true
 
 ```
-#### NetEase Cloud Unlock Node<br>网易云解锁音乐节点
+#### NetEase Cloud Unlock Node Beta<br>网易云解锁音乐节点Beta
 
 | Node Subscription <br>节点订阅 | Last Update Time<br>更新时间 | Statement<br>声明 | Active<br>有效 |
 | :----: | :----: | :----: | :----: |
