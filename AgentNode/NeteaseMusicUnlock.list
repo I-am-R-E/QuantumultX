@@ -3,3 +3,4 @@
 http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=NeteaseMusicUnlock 1
 shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=NeteaseMusicUnlock 2
 shadowsocks=MUSIC.DESPERADOJ.COM:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=NeteaseMusicUnlock 3
+http=101.132.79.113:23333, fast-open=false, udp-relay=false, tag=NeteaseMusicUnlock 4
