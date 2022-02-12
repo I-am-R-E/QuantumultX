@@ -1,6 +1,5 @@
 # > NeteaseMusic Unlock List
+# > Just Collect Available Nodes
 # > 2022.02.12
-http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=NeteaseMusicUnlock 1
-shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=NeteaseMusicUnlock 2
-shadowsocks=MUSIC.DESPERADOJ.COM:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=NeteaseMusicUnlock 3
-http=101.132.79.113:23333, fast-open=false, udp-relay=false, tag=NeteaseMusicUnlock 4
+
+aHR0cD1tdXNpYy5sb2xpY28ubWU6MzkwMDAsIGZhc3Qtb3Blbj1mYWxzZSwgdWRwLXJlbGF5PWZhbHNlLCB0YWc9TmV0ZWFzZU11c2ljIFVubG9jayAxCnNoYWRvd3NvY2tzPU1VU0lDLkRFU1BFUkFET0ouQ09NOjMwMDAxLCBtZXRob2Q9YWVzLTEyOC1nY20sIHBhc3N3b3JkPWRlc3BlcmFkb2ouY29tX2ZyZWVfcHJveHlfZDM5bSwgZmFzdC1vcGVuPWZhbHNlLCB1ZHAtcmVsYXk9ZmFsc2UsIHRhZz1OZXRlYXNlTXVzaWMgVW5sb2NrIDIKc2hhZG93c29ja3M9TVVTSUMuREVTUEVSQURPSi5DT006MzAwMDMsIG1ldGhvZD1hZXMtMTI4LWdjbSwgcGFzc3dvcmQ9ZGVzcGVyYWRvai5jb21fZnJlZV9wcm94eV9kMzltLCBmYXN0LW9wZW49ZmFsc2UsIHVkcC1yZWxheT1mYWxzZSwgdGFnPU5ldGVhc2VNdXNpYyBVbmxvY2sgMwpodHRwPTEwMS4xMzIuNzkuMTEzOjIzMzMzLCBmYXN0LW9wZW49ZmFsc2UsIHVkcC1yZWxheT1mYWxzZSwgdGFnPU5ldGVhc2VNdXNpYyBVbmxvY2sgNA==
