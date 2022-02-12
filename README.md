@@ -39,7 +39,7 @@ event-interaction https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/Ta
 
 | Node Subscription <br>节点订阅 | Last Update Time<br>更新时间 | Statement<br>声明 | Active<br>有效 |
 | :----: | :----: | :----: | :----: |
-|[Copy Node List](https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/AgentNode/NeteaseMusicUnlock.list)| 2022.02.12 | The node comes from the Internet, and can only unlock NetEase Cloud Music, but cannot be used as an agent, and the node is owned by the node provider.<br>只能解锁网易云音乐,不能够用于其他代理,节点来自互联网归提供者所有.| 🟢 | 
+|[Copy Node List](https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/AgentNode/NeteaseMusicUnlock.list)| 2022.02.12 | The node comes from the Internet, and can only unlock NetEase Cloud Music, but cannot be used as an agent, and the node is owned by the node provider.<br><br>只能解锁网易云音乐,不能够用于其他代理,节点来自互联网归提供者所有.| 🟢 | 
 
 # Here are HTTPBackend script descriptions<br>HTTPBackend订阅说明
 
