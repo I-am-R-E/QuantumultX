@@ -19,7 +19,7 @@
 
 ```
 
-[Copy Link](https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/ZhiHu6.0.0.conf)
+https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/ZhiHu6.0.0.conf
 
 ```
 
