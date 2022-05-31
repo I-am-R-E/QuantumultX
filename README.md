@@ -11,15 +11,15 @@
 ⚠️ Will not delete the library, but you can not share | ⚠️ 不会删库,但你不可以分享
 ⚠️ Please respect the author, thank you | ⚠️ 请尊重作者,谢谢
 
-# Here are All in One script descriptions<br>重写订阅整合说明
+# ZhiHu Come Soon ...<br>知乎极致优化
 
-| Features<br>功能 | Instructions for use<br>使用说明 | Active<br>有效 |
-| :----: | :----: | :----: |
-| Integrate all of the following rewrites<br><br>整合以下所有重写 | Paste the code into the first line below [rewrite_remote] in the QuantumultX configuration code<br><br>粘贴代码到QuantumultX配置代码中[rewrite_remote]下方第一行 | 🔴 | 
+| Features<br>功能 | Active<br>有效 |
+| :----: | :----: |
+| The old version of Zhihu client is extremely optimized<br><br>知乎旧版本客户端极致优化 | 🟢 | 
 
 ```
 
-Come Soon../正在路上.., tag=R_E_Script, update-interval=172800, opt-parser=true, enabled=true
+[Copy Link](https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/ZhiHu6.0.0.conf)
 
 ```
 
