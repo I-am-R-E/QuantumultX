@@ -1,5 +1,7 @@
-# ⚠️ 12 People Who Have Forked This Project Have Been Blocked
-# ⚠️ 已拉黑了12个Fork本项目的人
+# 🎉 功能性脚本已开辟新的仓库维护，此仓库在未来会减少维护频率，但不会删库！
+# 🎉 新的仓库将兼容多平台，针对不同工具做不同的优化，感谢Star新仓库[Functional-Store-Hub](https://github.com/I-am-R-E/Functional-Store-Hub)～
+# 🎉 创建了新的Telegram频道，主要推送脚本版本更新内容，感谢关注[Functional Store Hub](https://t.me/Functional_Store_Hub)～
+# ⚠️ 已拉黑了12个Fork本项目的人/⚠️ 12 People Who Have Forked This Project Have Been Blocked
 ## 🔴 Use must indicate the source/使用需注明出处🔴
 
 ⚠️ By using, you agree to this agreement | ⚠️ 使用则同意本协议
